@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/allan</item>
+        <item>@font/antic</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/archivo_black</item>
+        <item>@font/baloo</item>
+        <item>@font/bree_serif</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/bungee</item>
+        <item>@font/chelsea_market</item>
+        <item>@font/chewy</item>
+        <item>@font/coiny</item>
+        <item>@font/imprima</item>
+        <item>@font/lemon</item>
+        <item>@font/mclaren</item>
+        <item>@font/patua_one</item>
+        <item>@font/righteous</item>
+        <item>@font/salsa</item>
+        <item>@font/sniglet</item>
+        <item>@font/spicy_rice</item>
+        <item>@font/sriracha</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>
